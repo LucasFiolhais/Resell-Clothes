@@ -17,7 +17,7 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 
 
-<u>**Funcionalidades**</u>
+<u>Funcionalidades</u>
 
 
 **Catálogo Dinâmico:** Listagem de artigos puxada diretamente do MySQL, com atualização automática de stock.
