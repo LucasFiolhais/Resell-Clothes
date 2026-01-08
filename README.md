@@ -1,5 +1,11 @@
 # Resell Clothes - PHP E-commerce Platform
 
+<img width="1792" height="775" alt="Captura de ecrã 2026-01-08 194351" src="https://github.com/user-attachments/assets/7204b36f-eefc-49e5-a717-f0eb55fe479d" /> <br>
+
+<img width="631" height="516" alt="Captura de ecrã 2026-01-08 194404" src="https://github.com/user-attachments/assets/9917185d-957a-4060-9c23-690637ee96fb" /> <br>
+
+<img width="633" height="817" alt="Captura de ecrã 2026-01-08 194415" src="https://github.com/user-attachments/assets/cd45cede-b31d-439b-8600-67e0eb4c744e" /> <br>
+
 `Sobre o Projeto`
 
 A **Resell Clothes** é uma plataforma de e-commerce desenvolvida especificamente para o mercado de revenda de vestuário. O projeto foca-se na gestão de peças únicas e exclusivas, onde o inventário exige um controlo rigoroso e uma organização clara por categorias.
