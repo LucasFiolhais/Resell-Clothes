@@ -44,6 +44,6 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 **Base de Dados:** MySQL
 
-**Frontend:** HTML5, CSS3, JavaScript
+<u>Frontend:</u> HTML5, CSS3, JavaScript
 
 **Servidor:** Apache (XAMPP/WAMP)
