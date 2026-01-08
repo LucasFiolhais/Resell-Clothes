@@ -15,14 +15,21 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 **Funcionalidades**
 
 **Catálogo Dinâmico:** Listagem de artigos puxada diretamente do MySQL, com atualização automática de stock.
+
 **Sistema de Carrinho:** Lógica personalizada para adição/remoção de produtos e cálculo de totais.
+
 **Área de Cliente:** Sistema de registo e login com persistência de dados via sessões PHP.
+
 **Painel Administrativo:** Interface para gestão de inventário (CRUD de produtos: Criar, Ler, Atualizar e Eliminar).
+
 **Filtros de Pesquisa:** Navegação por categorias de vestuário.
 
 **Tecnologias Utilizadas**
 
 **Backend:** PHP (Procedimental)
-**Base de Dados:** MySQL / MariaDB
+
+**Base de Dados:** MySQL
+
 **Frontend:** HTML5, CSS3, JavaScript
+
 **Servidor:** Apache (XAMPP/WAMP)
