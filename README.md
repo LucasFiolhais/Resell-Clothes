@@ -1,4 +1,4 @@
-Resell Clothes - PHP E-commerce Platform
+#Resell Clothes - PHP E-commerce Platform
 
 `Sobre o Projeto`
 
