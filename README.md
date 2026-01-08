@@ -6,7 +6,7 @@ A **Resell Clothes** é uma plataforma de e-commerce desenvolvida especificament
 
 Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de consolidar os fundamentos da programação *back-end* e a manipulação direta de sistemas de gestão de bases de dados relacionais.
 
-<u>**Objetivos Técnicos**<u>
+<u>**Objetivos Técnicos**</u>
 
 **Lógica Server-side:** Implementar toda a lógica de negócio (autenticação, sessões e fluxos de compra) sem a abstração de frameworks, garantindo o domínio total do código.
 
@@ -17,7 +17,7 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 
 
-<u>Funcionalidades<u>
+<u>**Funcionalidades**</u>
 
 
 **Catálogo Dinâmico:** Listagem de artigos puxada diretamente do MySQL, com atualização automática de stock.
@@ -33,7 +33,7 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 
 
-<u>**Tecnologias Utilizadas**<u>
+<u>**Tecnologias Utilizadas**</u>
 
 
 
