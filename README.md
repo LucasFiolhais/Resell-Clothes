@@ -8,8 +8,8 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 <br>
 
-**Objetivos Técnicos**
-<br
+**Objetivos Técnicos:**
+<br>
 
 **Lógica Server-side:** Implementar toda a lógica de negócio (autenticação, sessões e fluxos de compra) sem a abstração de frameworks, garantindo o domínio total do código.
 
@@ -17,10 +17,10 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 **Segurança:** Aplicar práticas de segurança na gestão de sessões e na sanitização de dados inseridos pelo utilizador.
 
+
 <br>
 
-
-**Funcionalidades**
+**Funcionalidades:**
 <br>
 
 **Catálogo Dinâmico:** Listagem de artigos puxada diretamente do MySQL, com atualização automática de stock.
@@ -36,7 +36,7 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 <br>
 
-**Tecnologias Utilizadas**
+**Tecnologias Utilizadas:**
 
 <br>
 
