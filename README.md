@@ -9,10 +9,16 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 **Objetivos Técnicos**
 
 **Lógica Server-side:** Implementar toda a lógica de negócio (autenticação, sessões e fluxos de compra) sem a abstração de frameworks, garantindo o domínio total do código.
+
 **Gestão de Dados:** Desenhar uma arquitetura de base de dados robusta para gerir utilizadores, produtos e carrinhos de compras em tempo real.
+
 **Segurança:** Aplicar práticas de segurança na gestão de sessões e na sanitização de dados inseridos pelo utilizador.
 
+
+
+
 **Funcionalidades**
+
 
 **Catálogo Dinâmico:** Listagem de artigos puxada diretamente do MySQL, com atualização automática de stock.
 
@@ -24,7 +30,12 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 
 **Filtros de Pesquisa:** Navegação por categorias de vestuário.
 
+
+
+
 **Tecnologias Utilizadas**
+
+
 
 **Backend:** PHP (Procedimental)
 
