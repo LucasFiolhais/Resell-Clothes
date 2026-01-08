@@ -32,9 +32,9 @@ Este projeto foi construído utilizando **PHP Procedimental**, com o objetivo de
 **Painel Administrativo:** Interface para gestão de inventário (CRUD de produtos: Criar, Ler, Atualizar e Eliminar).
 
 **Filtros de Pesquisa:** Navegação por categorias de vestuário.
+
+
 <br>
-
-
 
 **Tecnologias Utilizadas**
 
